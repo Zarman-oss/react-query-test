@@ -1,1 +1,1 @@
-To learn more about React Query, you can visit the official documentation here. Additionally, you can explore the codebase of this repository and experiment with React Query to deepen your understanding.
+A huge shoutout to [tkdodo.eu](https://tkdodo.eu/blog/inside-react-query). Check his blog out on react querey for referecne. 
